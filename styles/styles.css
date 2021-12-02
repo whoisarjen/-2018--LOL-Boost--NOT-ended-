@@ -1,0 +1,134 @@
+@media(min-width: 1200px){
+.clear-fix{
+	clear:both;
+}
+
+.padding-10-t{
+	padding-top: 10px;
+}
+
+.padding-15-t{
+	padding-top: 15px;
+}
+
+.padding-20-t{
+	padding-top: 20px;
+}
+
+.padding-30-t{
+	padding-top: 30px;
+}
+
+.padding-35-t{
+	padding-top: 35px;
+}
+
+.padding-40-t{
+	padding-top: 40px;
+}
+
+.padding-50-t{
+	padding-top: 50px;
+}
+
+.padding-60-t{
+	padding-top: 60px;
+}
+
+.padding-70-t{
+	padding-top: 70px;
+}
+
+.padding-75-t{
+	padding-top: 75px;
+}
+
+.padding-80-t{
+	padding-top: 80px;
+}
+
+.padding-85-t{
+	padding-top: 85px;
+}
+
+.padding-90-t{
+	padding-top: 90px;
+}
+
+.padding-95-t{
+	padding-top: 95px;
+}
+
+.padding-100-t{
+	padding-top: 100px;
+}
+
+.padding-110-t{
+	padding-top: 110px;
+}
+
+.padding-125-t{
+	padding-top: 125px;
+}
+
+.padding-130-t{
+	padding-top: 130px;
+}
+
+.padding-135-t{
+	padding-top: 135px;
+}
+
+.padding-140-t{
+	padding-top: 140px;
+}
+
+.padding-140-t{
+	padding-top: 140px;
+}
+
+.padding-150-t{
+	padding-top: 150px;
+}
+
+.padding-175-t{
+	padding-top: 175px;
+}
+}
+
+
+.testimonial p{
+	text-align: center;
+	font-style:italic;
+	font-size:16px;
+	color: #777;
+}
+
+.testimonial .ranks img{
+	width:50px !important;
+	  margin-left: auto;
+    margin-right: auto;
+}
+
+.testimonial .ranks span{
+	color: #777;
+	font-size:13px;
+	text-align: center;
+	font-weight: bold;
+	display: block;
+}
+
+.testimonial .rating{
+	color:#b1272f;
+	text-align: center;
+	width:100%;
+}
+
+.testimonial .rating span{
+	padding: 3px;
+	font-size:13px;
+}
+
+.ui-state-active{
+	background: #b1272f;
+}
